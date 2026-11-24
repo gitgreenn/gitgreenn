@@ -1,264 +1,238 @@
-<!-- ======================================================= -->
+ 
+<!-- ===================================================== -->
 <!--                 SABUJ BISWAS | PROFILE                 -->
-<!-- ======================================================= -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071A14,50:063D2E,100:00C878&text=SABUJ%20BISWAS&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=CYBER%20SECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20NETWORKING&descAlignY=65&descSize=14&animation=fadeIn" width="100%" alt="Sabuj Biswas Profile Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,35:006b45,70:00b377,100:00e6a0&height=220&section=header&text=Sabuj%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-  <br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00E6A0&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cyber+Security+Graduate;Python+%7C+C+%7C+Networking;Building+Practical+Software+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+</a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=39D98A&center=true&vCenter=true&width=700&lines=Cyber+Security+Graduate;Python+Developer;Networking+Enthusiast;Building+Practical+Software+Projects;Always+Learning+New+Technologies" alt="Typing SVG"/>
+<br/>
 
-  <br/><br/>
+<a href="https://github.com/gitgreenn">
+  <img src="https://img.shields.io/badge/GitHub-gitgreenn-00C781?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sabujbiswas-link/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Email-Contact-00A86B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://github.com/gitgreenn">
-    <img src="https://img.shields.io/badge/GitHub-gitgreenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/sabujbiswas-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=gitgreenn&style=flat-square&color=00C878&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=gitgreenn&label=PROFILE%20VIEWS&color=00C781&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## `01` — About Me
 
-<img align="right" width="145" src="https://github.com/user-attachments/assets/placeholder" alt=""/>
+```python
+class SabujBiswas:
+    def __init__(self):
+        self.name = "Sabuj Biswas"
+        self.username = "gitgreenn"
+        self.education = "B.Tech - CSE (Cyber Security)"
+        self.university = "The Neotia University"
+        self.graduation = 2026
+        self.cgpa = 7.9
 
-I'm **Sabuj Biswas**, a Computer Science and Engineering graduate specializing in Cyber Security.
+        self.interests = [
+            "Cyber Security",
+            "Computer Networking",
+            "Python Development",
+            "Software Development",
+            "Artificial Intelligence"
+        ]
 
-I am interested in developing practical software applications, understanding computer networks, and exploring information security.
+        self.current_focus = [
+            "Network Security",
+            "Practical Development",
+            "Problem Solving"
+        ]
 
-I enjoy combining programming knowledge with networking and security concepts to build useful projects and solve real-world problems.
+    def motto(self):
+        return "Learn continuously. Build practically. Improve consistently."
+```
 
-- 🎓 B.Tech in Computer Science and Engineering (Cyber Security)
-- 🔐 Interested in Cyber Security and Network Security
-- 💻 Programming with Python and C
-- 🌐 Exploring Enterprise Networking and Network Infrastructure
-- 🐧 Working with Linux and Windows environments
-- 🚀 Learning, experimenting and building practical projects
+I am a Computer Science and Engineering graduate specializing in Cyber Security. I enjoy exploring computer networks, security concepts, programming, and building practical software projects.
 
-<br clear="right"/>
+My goal is to strengthen my technical foundation through hands-on development, experimentation, and continuous learning.
 
 ---
-
-<!-- ===================== EDUCATION ===================== -->
 
 ## `02` — Education
 
-<div align="center">
-
-| Institution | Degree | Specialization | Year | CGPA |
-|:---|:---|:---|:---:|:---:|
-| **The Neotia University** | B.Tech | CSE – Cyber Security | 2026 | **7.9** |
-
-</div>
+| Qualification | Institution | Details |
+|---|---|---|
+| B.Tech — CSE (Cyber Security) | The Neotia University | 2026 · CGPA 7.9 |
+| Class XII | Kalna Ambika Mahismardini High School | WBCHSE · 2022 |
+| Class X | Kalna Ambika Mahismardini High School | 2020 |
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## `03` — Technical Skills
 
-### Programming Languages
+<div align="center">
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C"/>
+### Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,qt&theme=dark" />
+
+### Operating Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" />
+
 </div>
 
-### Web Technologies & Database
+**Networking & Security**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" alt="HTML CSS MySQL"/>
-</div>
+- Network Security
+- LAN and VLAN Configuration
+- Inter-VLAN Routing
+- Cisco Packet Tracer
+- Basic Firewall and Network Concepts
 
-### Cyber Security & Networking
+**Development Tools**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Network%20Security-0B3D2E?style=for-the-badge&logo=protonvpn&logoColor=39D98A" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0086D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
-</div>
-
-### Development Tools & Platforms
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,qt&theme=dark" alt="Development Tools"/>
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
-</div>
+- Python · C · PyQt6
+- HTML · CSS · MySQL
+- Linux · Windows
+- Git · GitHub · VS Code
 
 ---
-
-<!-- ===================== PROJECTS ===================== -->
 
 ## `04` — Featured Projects
 
-A selection of projects focused on software development, artificial intelligence and computer networking.
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/gitgreenn/face-recognitions-attendance-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitgreenn&repo=face-recognitions-attendance-system&theme=chartreuse-dark&hide_border=true&bg_color=001a12&title_color=00e6a0&icon_color=00c781&text_color=c9f7e5" />
+</a>
 
-### 🔐 Face Recognition Attendance System
+</div>
 
-A face recognition-based attendance management application with student, class and subject management.
+### 1. Face Attendance & Management System
 
-**Key Features**
-- Face-based student identification
-- Student registration and management
-- Attendance tracking
-- Class and subject management
+**Technologies:** Python · OpenCV · NumPy · Tkinter · SQLite
 
-**Technology Stack**
+- Desktop-based face recognition attendance management system.
+- Face feature extraction using LBP and Sobel-based descriptors.
+- Student and attendance management.
+- Database-backed application structure.
+- Attendance reporting and management features.
 
-`Python` `OpenCV` `MediaPipe` `DeepFace`
+[View Repository](https://github.com/gitgreenn/face-recognitions-attendance-system)
 
-</td>
-<td width="50%" valign="top">
+### 2. Enterprise Inter-VLAN Network Design
 
-### 🌐 Enterprise Inter-VLAN Network Design
+**Technologies:** Cisco Packet Tracer · VLAN · Routing · Switching
 
-An enterprise network design project focused on VLAN segmentation and communication between different networks using routers.
+- Enterprise network segmentation using VLANs.
+- Inter-VLAN communication through router-based connectivity.
+- Network design and configuration as part of a final-year internship project.
 
-**Key Concepts**
-- VLAN configuration
-- Inter-VLAN communication
-- Router-based connectivity
-- Enterprise network architecture
+**Repository:** To be added when published.
 
-**Technology Stack**
+### 3. LocalCode AI
 
-`Cisco Packet Tracer` `Networking` `Routing`
+**Technologies:** C++ · Qt · Qt Quick · QML
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A personal development project focused on building a local desktop AI coding assistant.
 
-### 🤖 LocalCode AI
+**Status:** In development.
 
-A local AI coding assistant concept with a desktop application interface built using Qt technologies.
+### 4. MyLLM
 
-**Key Features**
-- Desktop application interface
-- Chat-based interaction
-- Local AI model integration
-- Qt Quick and QML interface
+**Technologies:** Python · PyTorch
 
-**Technology Stack**
+An educational project exploring how to build and train a small language model from scratch.
 
-`C++` `Qt Quick` `QML`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 MyLLM
-
-An educational project focused on understanding and implementing a small language model from scratch.
-
-**Key Concepts**
-- Tokenization and vocabulary
-- Neural network architecture
-- Model training
-- Text generation
-
-**Technology Stack**
-
-`Python` `PyTorch`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## `05` — GitHub Analytics
+**Status:** Learning project.
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gitgreenn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgreenn&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=gitgreenn&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A" alt="GitHub Streak"/>
+<a href="https://github.com/gitgreenn?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-00C781?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
+## `05` — GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitgreenn&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=001a12&title_color=00e6a0&icon_color=00c781&text_color=c9f7e5" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgreenn&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=001a12&title_color=00e6a0&text_color=c9f7e5" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gitgreenn&theme=chartreuse-dark&hide_border=true&background=001A12&ring=00E6A0&fire=00C781&currStreakLabel=00E6A0" width="75%" />
+
+</div>
+
+---
 
 ## `06` — Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitgreenn&bg_color=0D1117&color=C9D1D9&line=39D98A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitgreenn&bg_color=001a12&color=c9f7e5&line=00c781&point=00e6a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-## `07` — Certifications & Learning
+## `07` — GitHub Achievements
 
 <div align="center">
 
-| Certification / Learning Platform | Area |
-|:---|:---|
-| **Cisco Networking Academy** | Networking |
-| **NPTEL** | Technical Education |
-| **CyberWoks Workshop** | Cyber Security |
+<img src="https://github-profile-trophy.vercel.app/?username=gitgreenn&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
 
 </div>
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+## `08` — Training & Workshops
 
-## `08` — Current Focus
-
-- Improving Python programming and application development.
-- Exploring Network Security and enterprise networking.
-- Learning AI and language model development.
-- Building practical software and networking projects.
-- Improving Linux and development workflow skills.
+- Cisco Networking Academy
+- NPTEL
+- CyberWoks Workshop Certification
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+## `09` — Currently Exploring
 
-## `09` — Let's Connect
+- Network Security and Infrastructure
+- Advanced Python Development
+- Linux and Networking
+- Qt Quick and QML
+- Artificial Intelligence and Language Models
+
+---
+
+## `10` — Connect With Me
 
 <div align="center">
 
-  <a href="https://github.com/gitgreenn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/sabujbiswas-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://github.com/gitgreenn">
+  <img src="https://img.shields.io/badge/GitHub-gitgreenn-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://linkedin.com/in/sabujbiswas-link/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sabuj_Biswas-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  **Interested in technology, collaboration and building meaningful projects.**
+**"Consistency is more important than speed. Keep learning and keep building."**
 
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A14,50:063D2E,100:00C878&height=100&section=footer" width="100%" alt="Footer"/>
-
-  <sub>Designed and maintained by <a href="https://github.com/gitgreenn">Sabuj Biswas</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e6a0,50:006b45,100:001a12&height=110&section=footer" width="100%" />
 
 </div>
