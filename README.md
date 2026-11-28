@@ -1,14 +1,13 @@
- 
 <!-- ===================================================== -->
-<!--                 SABUJ BISWAS | PROFILE                 -->
+<!--                 SABUJ BISWAS | PROFILE                -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,35:006b45,70:00b377,100:00e6a0&height=220&section=header&text=Sabuj%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,35:006b45,70:00b377,100:00e6a0&height=220&section=header&text=Sabuj%20Biswas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20%7C%20Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00E6A0&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cyber+Security+Graduate;Python+%7C+C+%7C+Networking;Building+Practical+Software+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00E6A0&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cyber+Security+Graduate;Python+%7C+C%23+%2F+.NET+8+%7C+C%2B%2B+%7C+Networking;Building+Security+%26+Encryption+Software;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,9 +18,11 @@
 <a href="https://linkedin.com/in/sabujbiswas-link/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:sabujbiswas@myyahoo.com">
   <img src="https://img.shields.io/badge/Email-Contact-00A86B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=gitgreenn&label=PROFILE%20VIEWS&color=00C781&style=flat-square" alt="Profile views" />
 
@@ -42,26 +43,26 @@ class SabujBiswas:
         self.cgpa = 7.9
 
         self.interests = [
-            "Cyber Security",
+            "Cyber Security & Applied Cryptography",
             "Computer Networking",
-            "Python Development",
-            "Software Development",
+            "Software & Desktop Development",
+            "Python & .NET Engineering",
             "Artificial Intelligence"
         ]
 
         self.current_focus = [
+            "Security Tooling (Green Lock)",
             "Network Security",
-            "Practical Development",
-            "Problem Solving"
+            "Practical System Development"
         ]
 
     def motto(self):
         return "Learn continuously. Build practically. Improve consistently."
 ```
 
-I am a Computer Science and Engineering graduate specializing in Cyber Security. I enjoy exploring computer networks, security concepts, programming, and building practical software projects.
+I am a Computer Science and Engineering graduate specializing in **Cyber Security**. I enjoy exploring cryptography, computer networks, and building practical, security-focused software projects from the ground up.
 
-My goal is to strengthen my technical foundation through hands-on development, experimentation, and continuous learning.
+My goal is to strengthen my engineering foundation through hands-on development, experimentation, and continuous improvement.
 
 ---
 
@@ -69,9 +70,9 @@ My goal is to strengthen my technical foundation through hands-on development, e
 
 | Qualification | Institution | Details |
 |---|---|---|
-| B.Tech — CSE (Cyber Security) | The Neotia University | 2026 · CGPA 7.9 |
-| Class XII | Kalna Ambika Mahismardini High School | WBCHSE · 2022 |
-| Class X | Kalna Ambika Mahismardini High School | 2020 |
+| **B.Tech — CSE (Cyber Security)** | The Neotia University | 2026 · CGPA 7.9 |
+| **Class XII** | Kalna Ambika Mahismardini High School | WBCHSE · 2022 |
+| **Class X** | Kalna Ambika Mahismardini High School | 2020 |
 
 ---
 
@@ -81,28 +82,27 @@ My goal is to strengthen my technical foundation through hands-on development, e
 
 ### Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,qt&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,c,cpp,html,css,mysql,qt&theme=dark" />
 
 ### Operating Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 
-**Networking & Security**
+**Security & Networking**
 
-- Network Security
-- LAN and VLAN Configuration
-- Inter-VLAN Routing
+- Applied Cryptography (AES-256-GCM, Argon2id, Key Wrapping)
+- Network Security & Firewall Concepts
+- LAN / VLAN Configuration & Inter-VLAN Routing
 - Cisco Packet Tracer
-- Basic Firewall and Network Concepts
 
-**Development Tools**
+**Development & Stack**
 
-- Python · C · PyQt6
-- HTML · CSS · MySQL
-- Linux · Windows
-- Git · GitHub · VS Code
+- **Languages:** Python · C# · C · C++
+- **Frameworks:** .NET 8 (WPF / CLI) · PyQt6 · Qt Quick / QML
+- **Web & Data:** HTML · CSS · MySQL · SQLite
+- **Environment:** Linux · Windows · Git · GitHub · VS Code · Visual Studio
 
 ---
 
@@ -110,49 +110,50 @@ My goal is to strengthen my technical foundation through hands-on development, e
 
 <div align="center">
 
+<a href="https://github.com/gitgreenn/GreenLock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitgreenn&repo=GreenLock&theme=chartreuse-dark&hide_border=true&bg_color=001a12&title_color=00e6a0&icon_color=00c781&text_color=c9f7e5" />
+</a>
 <a href="https://github.com/gitgreenn/face-recognitions-attendance-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gitgreenn&repo=face-recognitions-attendance-system&theme=chartreuse-dark&hide_border=true&bg_color=001a12&title_color=00e6a0&icon_color=00c781&text_color=c9f7e5" />
 </a>
 
 </div>
 
-### 1. Face Attendance & Management System
+### 1. 🔒 Green Lock — In-Place File & Folder Encryption Suite
+
+**Technologies:** C# · .NET 8 LTS · WPF · AES-256-GCM · Argon2id · Windows Shell
+
+- Military-grade, authenticated in-place encryption suite for Windows files and directories.
+- Hardened with **Argon2id** key derivation, **AES-256-GCM** chunked authenticated encryption, and automatic memory zeroization.
+- Features a hardware-accelerated **WPF Desktop GUI**, global **Terminal CLI (`gl` / `glk`)**, Windows File Explorer right-click integration, and a zero-dependency Portable Decryptor.
+
+[View Repository](https://github.com/gitgreenn/GreenLock) • [Download Installer](https://github.com/gitgreenn/GreenLock/releases/latest)
+
+### 2. 👤 Face Attendance & Management System
 
 **Technologies:** Python · OpenCV · NumPy · Tkinter · SQLite
 
 - Desktop-based face recognition attendance management system.
 - Face feature extraction using LBP and Sobel-based descriptors.
-- Student and attendance management.
-- Database-backed application structure.
-- Attendance reporting and management features.
+- Database-backed student, attendance tracking, and reporting workflows.
 
 [View Repository](https://github.com/gitgreenn/face-recognitions-attendance-system)
 
-### 2. Enterprise Inter-VLAN Network Design
+### 3. 🌐 Enterprise Inter-VLAN Network Design
 
 **Technologies:** Cisco Packet Tracer · VLAN · Routing · Switching
 
-- Enterprise network segmentation using VLANs.
-- Inter-VLAN communication through router-based connectivity.
-- Network design and configuration as part of a final-year internship project.
+- Enterprise network segmentation using VLANs and router-on-a-stick / L3 inter-VLAN routing.
+- Designed and configured as part of a final-year internship project.
 
-**Repository:** To be added when published.
+### 4. 🤖 LocalCode AI & MyLLM
 
-### 3. LocalCode AI
+**Technologies:** C++ · Qt Quick / QML · Python · PyTorch
 
-**Technologies:** C++ · Qt · Qt Quick · QML
+- **LocalCode AI:** Personal project building a local desktop AI coding assistant *(In development)*.
+- **MyLLM:** Exploring language model architecture and training from scratch in PyTorch *(Learning project)*.
 
-A personal development project focused on building a local desktop AI coding assistant.
-
-**Status:** In development.
-
-### 4. MyLLM
-
-**Technologies:** Python · PyTorch
-
-An educational project exploring how to build and train a small language model from scratch.
-
-**Status:** Learning project.
+<br/>
 
 <div align="center">
 
@@ -204,17 +205,17 @@ An educational project exploring how to build and train a small language model f
 
 - Cisco Networking Academy
 - NPTEL
-- CyberWoks Workshop Certification
+- CyberWorks Workshop Certification
 
 ---
 
 ## `09` — Currently Exploring
 
-- Network Security and Infrastructure
-- Advanced Python Development
-- Linux and Networking
-- Qt Quick and QML
-- Artificial Intelligence and Language Models
+- Applied Cryptography & Secure Desktop Tooling
+- Network Security & Infrastructure
+- Advanced Python & .NET 8 Development
+- Linux & Systems Programming (C++ / Qt Quick)
+- Artificial Intelligence & Language Models
 
 ---
 
@@ -227,6 +228,9 @@ An educational project exploring how to build and train a small language model f
 </a>
 <a href="https://linkedin.com/in/sabujbiswas-link/">
   <img src="https://img.shields.io/badge/LinkedIn-Sabuj_Biswas-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sabujbiswas@myyahoo.com">
+  <img src="https://img.shields.io/badge/Email-sabujbiswas%40myyahoo.com-00A86B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
