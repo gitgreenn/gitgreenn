@@ -149,8 +149,7 @@ class SabujBiswas:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/greenlock-logo.png" width="44" align="right" alt="Green Lock Logo" />
-      <h3>🔒 1. Green Lock (v2.4.0) — Flagship</h3>
+      <h3><img src="assets/greenlock-logo.png" width="24" height="24" alt="Green Lock" /> 1. Green Lock (v2.4.0) — Flagship</h3>
       <p><b>In-Place File & Folder Encryption Suite for Windows</b></p>
       <ul>
         <li><b>Crypto Engine:</b> AES-256-GCM (1 MB chunked AEAD) + Argon2id (64 MB, RFC 9106) + RFC 3394 Key Wrap.</li>
@@ -247,7 +246,7 @@ class SabujBiswas:
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00c781/gitgreenn" alt="GitHub Contribution Chart" width="100%" />
+<img src="assets/contribution-chart.svg" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
