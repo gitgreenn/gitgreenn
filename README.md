@@ -149,6 +149,7 @@ class SabujBiswas:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/greenlock-logo.png" width="44" align="right" alt="Green Lock Logo" />
       <h3>🔒 1. Green Lock (v2.4.0) — Flagship</h3>
       <p><b>In-Place File & Folder Encryption Suite for Windows</b></p>
       <ul>
@@ -204,7 +205,7 @@ class SabujBiswas:
 <div align="center">
   <br/>
   <a href="https://github.com/gitgreenn?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories_→-00C781?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-00C781?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -246,23 +247,13 @@ class SabujBiswas:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitgreenn&bg_color=001a12&color=c9f7e5&line=00c781&point=00e6a0&area=true&hide_border=true&custom_title=Contribution%20Pulse" width="100%" />
+<img src="https://ghchart.rshah.org/00c781/gitgreenn" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
 ---
 
-## `07` — GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gitgreenn&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" />
-
-</div>
-
----
-
-## `08` — Connect & Collaborate
+## `07` — Connect & Collaborate
 
 <div align="center">
 
