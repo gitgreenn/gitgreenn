@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HERO WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,35:005c3b,70:00a86b,100:00e6a0&height=230&section=header&text=Sabuj%20Biswas&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Cyber%20Security%20Graduate%20%E2%80%A2%20Systems%20%26%20Desktop%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,35:005c3b,70:00a86b,100:00e6a0&height=230&section=header&text=Sabuj%20Biswas&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Cyber%20Security%20Graduate%20%E2%80%A2%20Systems%20%26%20Desktop%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" /> -->
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://git.io/typing-svg">
