@@ -149,29 +149,20 @@ class SabujBiswas:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="assets/greenlock-logo.png" width="24" height="24" alt="Green Lock" /> 1. Green Lock (v2.4.0) — Flagship</h3>
-      <p><b>In-Place File & Folder Encryption Suite for Windows</b></p>
-      <ul>
-        <li><b>Crypto Engine:</b> AES-256-GCM (1 MB chunked AEAD) + Argon2id (64 MB, RFC 9106) + RFC 3394 Key Wrap.</li>
-        <li><b>Dual Interface:</b> Sleek dark-theme WPF Desktop GUI + global Terminal CLI (<code>gl</code> / <code>glk</code>).</li>
-        <li><b>OS Integration:</b> Native File Explorer right-click menus, <code>desktop.ini</code> folder badges, and a zero-dependency Portable Decryptor.</li>
-        <li><b>Engineering:</b> 9-project modular architecture, 55/55 passing xUnit tests, Authenticode signed.</li>
-      </ul>
+      <h4><img src="assets/greenlock-logo.png" width="20" height="20" alt="Green Lock" /> Green Lock (v2.4.0)</h4>
+      <p>Military-grade in-place file &amp; folder encryption suite with WPF GUI, CLI, and Shell integration.</p>
+      <p><code>C#</code> · <code>.NET 8</code> · <code>WPF</code> · <code>AES-256-GCM</code> · <code>Argon2id</code></p>
       <a href="https://github.com/gitgreenn/GreenLock">
-        <img src="https://img.shields.io/badge/Source_Code-00C781?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repository-00C781?style=flat-square&logo=github&logoColor=white" />
       </a>
       <a href="https://github.com/gitgreenn/GreenLock/releases/latest">
-        <img src="https://img.shields.io/badge/Download_v2.4.0-006B45?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Download-006B45?style=flat-square&logo=windows&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>👤 2. Face Recognition Attendance System</h3>
-      <p><b>Automated Biometric Attendance & Student Management</b></p>
-      <ul>
-        <li><b>Computer Vision:</b> Real-time face detection and feature extraction using LBP & Sobel-based descriptors.</li>
-        <li><b>Stack:</b> Python · OpenCV · NumPy · Tkinter · SQLite.</li>
-        <li><b>Workflow:</b> Automated student enrollment, live camera attendance logging, and structured reporting.</li>
-      </ul>
+      <h4>👤 Face Attendance System</h4>
+      <p>Automated biometric attendance &amp; student management using LBP &amp; Sobel face descriptors.</p>
+      <p><code>Python</code> · <code>OpenCV</code> · <code>NumPy</code> · <code>Tkinter</code> · <code>SQLite</code></p>
       <a href="https://github.com/gitgreenn/face-recognitions-attendance-system">
         <img src="https://img.shields.io/badge/View_Repository-00C781?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -179,24 +170,18 @@ class SabujBiswas:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 3. Enterprise Inter-VLAN Network Design</h3>
-      <p><b>Segmented Campus / Enterprise Network Architecture</b></p>
-      <ul>
-        <li><b>Design:</b> Multi-department network segmentation using isolated VLANs and L3 inter-VLAN routing.</li>
-        <li><b>Tools:</b> Cisco Packet Tracer · Switching · Routing · ACLs.</li>
-        <li><b>Context:</b> Final-year internship network engineering & security project.</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Status-Internship_Project-006B45?style=flat-square" />
+      <h4>🌐 Enterprise Inter-VLAN Design</h4>
+      <p>Segmented enterprise network architecture with isolated VLANs and L3 inter-VLAN routing.</p>
+      <p><code>Cisco Packet Tracer</code> · <code>VLAN</code> · <code>Routing</code> · <code>ACLs</code></p>
+      <img src="https://img.shields.io/badge/Internship_Project-006B45?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 4. LocalCode AI & MyLLM</h3>
-      <p><b>Local AI Assistant & From-Scratch LLM Exploration</b></p>
-      <ul>
-        <li><b>LocalCode AI:</b> Native desktop AI coding assistant built with C++ · Qt Quick · QML <i>(In Development)</i>.</li>
-        <li><b>MyLLM:</b> Educational deep-dive implementing and training a small language model from scratch in Python & PyTorch.</li>
-      </ul>
-      <img src="https://img.shields.io/badge/C%2B%2B_%2F_QML-001A12?style=flat-square&logo=qt&logoColor=00E6A0" />
-      <img src="https://img.shields.io/badge/PyTorch-001A12?style=flat-square&logo=pytorch&logoColor=00E6A0" />
+      <h4>🤖 LocalCode AI &amp; MyLLM</h4>
+      <p>Local desktop AI coding assistant and from-scratch small language model training.</p>
+      <p><code>C++</code> · <code>Qt Quick</code> · <code>QML</code> · <code>Python</code> · <code>PyTorch</code></p>
+      <a href="https://github.com/gitgreenn?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Repositories-00C781?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
